@@ -16,8 +16,8 @@ font-family:"Helvetica Neue",Helvetica, Arial;
 div#shim{
 visibility: hidden;
 width: 100%;
-height: 50%;                                                                     
-margin-top: -140px;                                                              
+height: 50%;
+margin-top: -140px;
 float: left;
 }
 
@@ -51,7 +51,6 @@ float: left;
 border-right: 1px solid #303030;
 height: 280px;
 position: relative;
-font-family: 'Dancing Script', cursive;
 }
 
 h1{
@@ -59,7 +58,7 @@ padding: 12px 70px 12px 20px;
 position: absolute;
 right: 0;
 text-align:left;
-top: 25%;
+top: 10%;
 float: left;
 color: #fff;
 letter-spacing: -1px;
@@ -67,6 +66,22 @@ font-size: 38px;
 }
 
 h1 cufon{
+margin-bottom: -4px;
+}
+
+h3.Added{
+padding: 20px 5px 2px 5px;
+position: absolute;
+right: 0;
+text-align:middle;
+top: 35%;
+float: left;
+color: #333;
+letter-spacing: -1px;
+font-size: 20px;
+}
+
+h3.Added cufon{
 margin-bottom: -4px;
 }
 
