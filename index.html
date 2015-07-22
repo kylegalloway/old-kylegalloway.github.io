@@ -1,48 +1,33 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Kyle Galloway</title>
-    <link rel="stylesheet" type="text/css" href="base.css"/>
-    <link rel="icon" type="image/ico" href="favicon.ico"/>
-  </head>
-  <body>
-    <div class='name-container'>
-      <h1>Kyle<br/>Galloway</h1>
-    </div>
-    <div class='clear-container'>
-      <h3>Computer Science Student<br/>at The University of Alabama</h3>
-    </div>
-    <div class='container'>
-      <form action="mailto:kyle.galloway.1993@gmail.com" enctype="text/plain" method="post">
-        <header>
-          <h2>My website is coming soon.<br/>Until then, connect with me with the form below.</h2>
-        </header>
-        <div class='name-div'>
-          <input class='name' placeholder='Name' type='text'>
-        </div>
-        <div class='contact'>
-          <input class='email' placeholder='E-mail Address' type='text'>
-        </div>
-        <div class='message'>
-          <textarea placeholder='Message'></textarea>
-        </div>
-        <footer>
-          <h5>
-            This will activate your default mail application.
-            <button type="submit">Send Message</button>
-          </h5>
-        </footer>
-      </form>
-    </div>
-    <div class='clear-container'>
-      <p>Or if that doesn't work, please feel free to contact me in other ways:</p>
-      <p>kyle.galloway.1993@gmail.com</p>
-      <ul class="soc">
-        <li><a class="soc-twitter" href="https://twitter.com/kylegallowayckg"></a></li>
-        <li><a class="soc-facebook" href="http://www.facebook.com/christopher.kyle.galloway"></a></li>
-        <li><a class="soc-linkedin" href="www.linkedin.com/in/ckgalloway"></a></li>
-        <li><a class="soc-github soc-icon-last" href="https://github.com/kylegalloway"></a></li>
-      </ul>
-    </div>
-  </body>
-</html>
+---
+layout: default
+title: Home
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+
+    {{ post.content }}
+  </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
