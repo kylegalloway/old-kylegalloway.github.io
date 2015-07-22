@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Kyle Galloway
+tagline:             Computer Science Student at The University of Alabama
+url:                 http://kylegalloway.me
 paginate:            1
 baseurl:             ""
 
@@ -20,11 +20,15 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Kyle Galloway
+  url:               http://kylegalloway.me
+  email:             kyle.galloway@gmail.com
 
 # Custom vars
-version:             2.0.0
+version:          1.0.0
+
 github:
-  repo:              https://github.com/poole/poole
+  repo:           https://github.com/kylegalloway/kylegalloway.github.io
+
+# This is the list of pages to incldue in the header of the website.
+pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
