@@ -1,44 +1,47 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Kyle Galloway</title>
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-<link href="tools/style.css" rel="stylesheet" type="text/css" />
-<link href="tools/960.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-<script type="text/javascript" src="js/cufon-yui.js"></script>
-<script type="text/javascript" src="js/Clarendon_LT_Std_700.font.js"></script>
-<script type="text/javascript">
-	Cufon.replace('h1,h3', {fontFamily: 'Clarendon LT Std', hover:true})
-</script>
-</head>
-<body>
-<div id="shim"></div>
-<div id="content">
-	<div class="logo_box">
-		<h1>Kyle<br/>Galloway</h1>
-		<h3 class="Added">Computer Science Student<br/>@ The University of Alabama</h3>
-	</div>
-	<div class="main_box">
-		<h2>My website is coming soon.<br/><span>In the mean time connect with me with the information below</span></h2>
-
-		<ul class="info">
-			<li>
-				<h3>Email</h3>
-				<p>kyle.galloway.1993@gmail.com<br/>ckgalloway@crimson.ua.edu</p>
-			</li>
-			<li>
-				<h3>Social</h3>
-				<p class="social">
-					<a href="https://twitter.com/kylegallowayckg" class="tw"></a>
-					<a href="http://www.facebook.com/christopher.kyle.galloway" class="fb"></a>
-					<a href="www.linkedin.com/in/ckgalloway" class="li"></a>
-				</p>
-			</li>
-		</ul>
-	</div>
-</div>
-
-</body>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Kyle Galloway</title>
+    <link rel="stylesheet" type="text/css" href="base.css">
+  </head>
+  <body>
+    <div class='name-container'>
+      <h1>Kyle<br/>Galloway</h1>
+    </div>
+    <div class='clear-container'>
+      <h3>Computer Science Student<br/>at The University of Alabama</h3>
+    </div>
+    <div class='container'>
+      <form action="mailto:kyle.galloway.1993@gmail.com" enctype="text/plain" method="post">
+        <header>
+          <h2>My website is coming soon.<br/>Until then, connect with me with the form below.</h2>
+        </header>
+        <div class='name-div'>
+          <input class='name' placeholder='Name' type='text'>
+        </div>
+        <div class='contact'>
+          <input class='email' placeholder='E-mail Address' type='text'>
+        </div>
+        <div class='message'>
+          <textarea placeholder='Message'></textarea>
+        </div>
+        <footer>
+          <h5>
+            This will activate your default mail application.
+            <button type="submit">Send Message</button>
+          </h5>
+        </footer>
+      </form>
+    </div>
+    <div class='clear-container'>
+      <p>Or if that doesn't work, please feel free to contact me in other ways:</p>
+      <p>kyle.galloway.1993@gmail.com</p>
+      <ul class="soc">
+        <li><a class="soc-twitter" href="https://twitter.com/kylegallowayckg"></a></li>
+        <li><a class="soc-facebook" href="http://www.facebook.com/christopher.kyle.galloway"></a></li>
+        <li><a class="soc-linkedin" href="www.linkedin.com/in/ckgalloway"></a></li>
+        <li><a class="soc-github soc-icon-last" href="https://github.com/kylegalloway"></a></li>
+      </ul>
+    </div>
+  </body>
 </html>
