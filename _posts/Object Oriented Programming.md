@@ -3,6 +3,9 @@
 Object Oriented programming's main idea is to promote code reuse.
 
 ### What is an object?
+
+//TODO
+
 ***
 5 key things
 
