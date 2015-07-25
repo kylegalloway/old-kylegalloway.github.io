@@ -14,7 +14,7 @@ Object Oriented programming's main idea is to promote code reuse.
 
 ### Encapsulation
 
-This is the ability to encapsulate or contain and hide some of the logic in an object. It allows this object to have private attributes/methods and public ones. In Python this is shown in the form of classes. they are Python's ~object~.  Python's classes don't have true encapsulation. But the general concensus is that an underscore in front of a variable or a method denotes it as private.
+This is the ability to encapsulate or contain and hide some of the logic in an object. It allows this object to have private attributes/methods and public ones. In Python this is shown in the form of classes. they are Python's *object*.  Python's classes don't have true encapsulation. But the general concensus is that an underscore in front of a variable or a method denotes it as private.
 ***
 ### Inheritence
 
