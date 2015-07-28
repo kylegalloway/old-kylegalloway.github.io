@@ -25,5 +25,5 @@ pages_list: {
     Archive : '/archive',
     Feed : '/atom.xml'
 }
-github: https://github.com/kylegalloway
-repo: https://github.com/kylegalloway/kylegalloway.github.io
+github:
+ repo: https://github.com/kylegalloway/kylegalloway.github.io
