@@ -7,28 +7,21 @@ relative_permalinks: true
 # Setup
 title:               Kyle Galloway
 tagline:             Computer Science Student at The University of Alabama
+description:         'A bit about me.'
 url:                 http://kylegalloway.me
-paginate:            1
-baseurl:             ""
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+baseurl:             ''
+paginate:            5
 
 # About/contact
 author:
   name:              Kyle Galloway
-  url:               http://kylegalloway.me
-  email:             kyle.galloway@gmail.com
+  url:               https://twitter.com/kylegallowayckg
+  email:             kyle.galloway.1993@gmail.com
 
 # Custom vars
-version:          1.0.0
-
-github:
-  repo:           https://github.com/kylegalloway/kylegalloway.github.io
-
-# This is the list of pages to incldue in the header of the website.
-pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
+version:             1.0.0
+pages_list: {
+    About : '/about',
+    Archive : '/archive',
+    Feed : '/atom.xml'
+}
