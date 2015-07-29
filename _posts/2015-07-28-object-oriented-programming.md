@@ -1,14 +1,14 @@
 # Object Oriented Programming
 
-> Object Oriented programming's main idea is to promote code reuse.
+> The main idea of Object Oriented Programming is to promote code reuse.
 
 ### What is an object?
 
-> //TODO
+> An object is a representation of something. Some people say it is a representation of concrete things or objects. I like to think that it can be that, and it can also be a representation of an idea. This way you could have objects that represent Cars, Phones, People, and more. But you can also have objects that represent A Graph or a System.
 
 - - -
 
-5 key things
+### 5 key things to remember about objects
 
 1. Encapsulation
 2. Inheritence
