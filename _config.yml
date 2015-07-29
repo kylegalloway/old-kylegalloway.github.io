@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Kyle Galloway
 tagline:             Computer Science Student at The University of Alabama
-description:         "This site is a work in progress. Don't hesitate to contact me if needed"
+description:         "This site is a work in progress. Don't hesitate to contact me if needed."
 url:                 http://kylegalloway.me
 baseurl:             ''
 paginate:            5
