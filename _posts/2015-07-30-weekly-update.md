@@ -2,14 +2,14 @@
 
 Phew! I've been writing a huge amount of python this week.
 
-#### Some things I've done (Python)
+### Some things I've done (Python)
 * Worked through the first 6 chapters of [The Goat Book](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
 * Worked on my Simple Rating System. (Hopefully I can turn it into a web app soon)
 * Looked through and thoroughly learned the ins and outs of the [Python Thursday Adventure Game](https://github.com/code-newbies/python-thursday-adventure)
 * Researched differences in Flask and Django. I like Flask but that's because I'm partial to minimal setups and micro-frameworks.
 * Found tons of books and resources on OOP, TDD, Algorithms, Good Practices, and a variety of other things in Python.
 
-#### Other Highlights
+### Other Highlights
 * After talking to kjaymiller about my private repositories, I decided to open up my Dev repository.
 * In opening that repository, I wanted to split out each subdirectory into it's own repository with all of it's own history.
 * This was easier said than done, but I found a great bit of information on [this Stack Overflow question](http://stackoverflow.com/questions/359424/detach-subdirectory-into-separate-git-repository/17864475#17864475)
@@ -33,7 +33,7 @@ Phew! I've been writing a huge amount of python this week.
         * Hanselminutes - Scott Hanselman
         * Hello Internet - CGP Grey, Brady Haran
         * Mystery Show - Gimlet
-        * Podcast.__init__ - Tobias Macey, Chris Patti
+        * Podcast.\__ini\t__ - Tobias Macey, Chris Patti
         * Rocket - Relay FM
         * Talking Machines - Tote Bag Productions
         * The Freelancers' Show - DevChat.tv
@@ -45,6 +45,6 @@ Phew! I've been writing a huge amount of python this week.
 * I've started to really improve my French learning. The combination of Memrise, Duolingo, and trying to speak it as much as possible have helped.
 
 
-That's all for now. I'll update this if anything happens between today and Saturday.
+That's all for now. I'll update this post if anything happens between today and Saturday.
 
 ### Always Obey the Testing Goat!
