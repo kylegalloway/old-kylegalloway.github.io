@@ -33,7 +33,7 @@ Phew! I've been writing a huge amount of python this week.
         * Hanselminutes - Scott Hanselman
         * Hello Internet - CGP Grey, Brady Haran
         * Mystery Show - Gimlet
-        * Podcast.\__ini\t__ - Tobias Macey, Chris Patti
+        * Podcast.\__init__ - Tobias Macey, Chris Patti
         * Rocket - Relay FM
         * Talking Machines - Tote Bag Productions
         * The Freelancers' Show - DevChat.tv
