@@ -3,8 +3,6 @@ layout: post
 title: Iron Coder II
 category: Python
 ---
-# Iron Coder II
-
 > Please see Jamal's original post [here](http://jamalhansen.com/2015/08/01/iron-coder-two-has-begun/). I borrowed this from him.
 
 Today marks the day that is the beginning of Iron Coder II.  This is a code challenge where I will compete against myself and [Jamal Hansen](http://jamalhansen.com) to complete a randomized Ruby Quiz in Python.
