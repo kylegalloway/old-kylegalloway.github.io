@@ -1,3 +1,8 @@
+---
+layout: post
+title: Iron Coder II
+category: Weekly Update
+---
 # Weekly Update (July 26, 2015 - Aug. 1, 2015)
 
 Phew! I've been writing a huge amount of python this week.
