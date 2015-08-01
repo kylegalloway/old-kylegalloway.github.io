@@ -9,7 +9,7 @@ Today marks the day that is the beginning of Iron Coder II.  This is a code chal
 
 We have two weeks to complete this; challenge ends 23:59 CT on 8/15/2015.
 
-Here is a [link to my git repo]((https://github.com/kylegalloway/Euchre-Hands) and [Jamal's](https://github.com/jamalhansen/Iron-Coder-II)
+Here is a [link to my git repo](https://github.com/kylegalloway/Euchre-Hands) and [Jamal's](https://github.com/jamalhansen/Iron-Coder-II)
 
 This should be a fun challenge, I'm looking forward to it.
 
