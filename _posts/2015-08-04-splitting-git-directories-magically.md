@@ -21,5 +21,3 @@ I decided a few days later, that I wanted a way to update all of the individual 
 
 Again, after searching a bit, I stumbled across a script to [pull all subdirectories](http://stackoverflow.com/questions/3497123/run-git-pull-over%20-all-subdirectories#comment46218583_12495234).
 It happened to be deep in the comments, but it works fantastically on both OSX and Linux.
-
-{% include twitter_plug.html %}

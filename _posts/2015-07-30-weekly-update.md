@@ -53,5 +53,3 @@ Phew! I've been writing a huge amount of python this week.
 That's all for now. I'll update this post if anything happens between today and Saturday.
 
 ### Always Obey the Testing Goat!
-
-{% include twitter_plug.html %}
