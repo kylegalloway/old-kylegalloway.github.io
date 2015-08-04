@@ -72,3 +72,5 @@ Here is a script that will feed your program random hands:
     cards = cards.sort_by { rand }
     puts cards[0..4]
 {% endhighlight %}
+
+{% include twitter_plug.html %}

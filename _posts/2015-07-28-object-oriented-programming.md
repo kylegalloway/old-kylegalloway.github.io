@@ -48,3 +48,5 @@ category: General
 ### Coupling
 
 > Coupling is the opposite of cohesion in that you want low coupling. Coupling is when one class relies on another class too much. It can happen when you have say a BankAccount class and a PrintBankAccount class. The PrintBankAccount class relies way too much on the BankAccount class. To help you might change the BankAccount class's display_balance method to return a string. Then pass that to a class that takes a string and prints it. That way you can safely reuse either class.
+
+{% include twitter_plug.html %}
