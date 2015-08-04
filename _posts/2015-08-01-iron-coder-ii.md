@@ -73,4 +73,4 @@ Here is a script that will feed your program random hands:
     puts cards[0..4]
 {% endhighlight %}
 
-One last thought: If accuracy is our ultimate goal here, how will you know your output is correct?
+{% include twitter_plug.html %}
