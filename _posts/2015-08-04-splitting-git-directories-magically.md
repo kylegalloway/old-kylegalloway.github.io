@@ -5,6 +5,7 @@ category: Git
 ---
 ### Why I did it
 I realized, after talking with some friends, that keeping all of my work in a single git directory was becoming a problem.
+
 * I couldn't share it because I had the directory private.
 * I couldn't seem to keep things as seperate as I would have liked.
 * i could foresee problems with scalability.
