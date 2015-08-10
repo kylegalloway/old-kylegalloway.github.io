@@ -13,6 +13,6 @@ I'm Kyle Galloway and here are some links for you.
 * [Facebook](http://www.facebook.com/christopher.kyle.galloway)
 * [LinkedIn](www.linkedin.com/in/ckgalloway)
 * [Github](https://github.com/kylegalloway)
-
+* Email: [kyle.galloway.1993@gmail.com](mailto:kyle.galloway.1993@gmail.com)
 
 Thanks for reading!
