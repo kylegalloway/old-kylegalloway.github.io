@@ -24,31 +24,34 @@ This week, I was super busy. Or at least felt that I was.
     * [BattleBots](http://abc.go.com/shows/battlebots)
 
 ### Current Podcasts:
-* Always Listen
-    * Chasing Tone by Wampler Pedals
+* Development
     * CodeNewbie
-    * Cortex - Relay FM
     * Developer Soup
     * Developer Tea - Spec
-    * DLC - 5by5
-    * Entreprogrammers Podcast - Derick Bailey, Charles Maxwood, John Sonmez, Josh Earl
+    * Full Stack Radio - Adam Wathan
     * Hanselminutes - Scott Hanselman
-    * Hello Internet - CGP Grey, Brady Haran
-    * Isometric - Relay FM
     * Material - Relay FM
     * Podcast.\__init__ - Tobias Macey, Chris Patti
-    * Talk Python To Me - Michael Kennedy
-    * Theory and Craft - David Crawford, Chris Yang
-    * The Freelancers' Show - DevChat.tv
-    * The Pipeline - 5by5
-    * The Spark Gap
-    * Vector - Dow, English, Ritchie, Wiskus
-* Still on a trial run
-    * French Podcast - Linguistica 360
-    * Full Stack Radio - Adam Wathan
-    * Rocket - Relay FM
     * Slack Variety Pack - Slack.com
+    * Talk Python To Me - Michael Kennedy
     * The Ruby Rogues - DevChat.tv
+    * Theory and Craft - David Crawford, Chris Yang
+    * The Pipeline - 5by5
+* Electronics
+    * The Spark Gap
+* Gaming
+    * DLC - 5by5
+    * Isometric - Relay FM
+    * Rocket - Relay FM
+* Guitar
+    * Chasing Tone by Wampler Pedals
+* Other
+    * Cortex - Relay FM
+    * Entreprogrammers Podcast - Derick Bailey, Charles Maxwood, John Sonmez, Josh Earl
+    * French Podcast - Linguistica 360
+    * Hello Internet - CGP Grey, Brady Haran
+    * The Freelancers' Show - DevChat.tv
+    * Vector - Dow, English, Ritchie, Wiskus
     * Upgrade - Relay FM
 
 
