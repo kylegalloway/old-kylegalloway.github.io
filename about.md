@@ -9,6 +9,6 @@ My name is Kyle Galloway. I am many things to many people. I am a husband, fathe
 * [Facebook](http://www.facebook.com/christopher.kyle.galloway)
 * [LinkedIn](www.linkedin.com/in/ckgalloway)
 * [Github](https://github.com/kylegalloway)
-* Email: [kyle.galloway.1993@gmail.com](mailto:kyle.galloway.1993@gmail.com)
+* [Email](mailto:kyle.galloway.1993@gmail.com)
 
 Thanks for reading!
