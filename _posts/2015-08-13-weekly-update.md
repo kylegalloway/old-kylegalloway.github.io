@@ -1,39 +1,27 @@
 ---
 layout: post
-title: Weekly Update #
+title: Weekly Update 3
 category: Weekly Update
 ---
-###(Date - Date)
+###(Aug. 9, 2015 - Aug. 15, 2015)
 
-This week, I ...
+This week, I was super busy. Or at least felt that I was.
 
 ### Some things I've done
-*
-*
-*
+* I've gotten my work project up and running! It took some help but I got it rolling!
+* I've finished [Iron Coder II](http://kylegalloway.me/python/2015/08/01/iron-coder-ii/). My final code is [here](https://github.com/kylegalloway/Euchre-Hands).
+* I've been working really hard in [Learn C The Hard Way](http://c.learncodethehardway.org/book/). It's more challenging than I thought, but very much worth it.
 
 ### Looking ahead
-*
-*
-*
+* I want to look into data visualization with Python. There is some really cool stuff that can be done with it. Like [this](http://maxberggren.github.io/2015/08/04/basemap/)
+* I also want to look into Machine Learning (again with Python). It seems to be where the future of computing lies.
 
 ### Media
     * Books
-        *
-        *
-        *
-    * Movies
-        *
-        *
-        *
+        * [Wicked - Gregory Maguire (Currently reading)](http://www.amazon.com/Wicked-Life-Times-Witch-Years/dp/0061350966/)
+        * [The Goat Book](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
     * TV Shows
-        *
-        *
-        *
-    * Music
-        *
-        *
-        *
+        * [BattleBots](http://abc.go.com/shows/battlebots)
 
 ### Current Podcasts:
     * Always Listen
