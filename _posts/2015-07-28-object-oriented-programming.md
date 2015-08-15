@@ -3,7 +3,7 @@ layout: post
 title: Object Oriented Programming
 category: General
 ---
-> The main idea of Object Oriented Programming is to promote code reuse.
+> The main idea of Object Oriented Programming is to promote code reuse and handle complexity.
 
 ### What is an object?
 
