@@ -3,6 +3,8 @@ layout: post
 title: Object Oriented Programming
 category: General
 ---
+> Update Aug. 15, 2015: Here is a [Youtube video](https://www.youtube.com/watch?v=9u0DZ3fdU6Y) of the talk I gave on this topic.
+
 > The main idea of Object Oriented Programming is to promote code reuse and handle complexity.
 
 ### What is an object?
@@ -14,22 +16,22 @@ category: General
 ### 5 key things to remember about objects
 
 1. Encapsulation
-2. Inheritence
+2. Inheritance
 3. Polymorphism
 4. Cohesion
 5. Coupling
 
 ### Encapsulation
 
-> This is the ability to encapsulate or contain and hide some of the logic in an object. It allows this object to have private attributes/methods and public ones. In Python this is shown in the form of classes. they are Python's *object*.  Python's classes don't have true encapsulation. But the general concensus is that an underscore in front of a variable or a method denotes it as private.
+> This is the ability to encapsulate or contain and hide some of the logic in an object. It allows this object to have private attributes/methods and public ones. In Python this is shown in the form of classes. they are Python's *object*.  Python's classes don't have true encapsulation. But the general consensus is that an underscore in front of a variable or a method denotes it as private.
 
 - - -
 
 ### Inheritence
 
-> Inheritance is a little easier to explain. Inheritance happens when you want one object or class to have the oroperties of another.
+> Inheritance is a little easier to explain. Inheritance happens when you want one object or class to have the properties of another.
 > Say, for instance, that you have an Animal class. And this Animal class has the property: is_alive = True.
-> Inheritance comes into play when you want to have a class for Dogs specifically. So your dog class can inherit from the Animal class. It eill therefore inherit all of the properties and methods of the Animal class. So your Dog class will have access yo the is_alive method. This can go even further. You can have a property: num_of_legs = 4, and the method speak() { print "Woof!"}. and then you can create a class named Labrador and it would inherit both of those and the is_alive method from the Animal class.
+> Inheritance comes into play when you want to have a class for Dogs specifically. So your dog class can inherit from the Animal class. It will therefore inherit all of the properties and methods of the Animal class. So your Dog class will have access yo the is_alive method. This can go even further. You can have a property: number_of_legs = 4, and the method speak() { print "Woof!"}. and then you can create a class named Labrador and it would inherit both of those and the is_alive method from the Animal class.
 
 - - -
 
