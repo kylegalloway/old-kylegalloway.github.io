@@ -7,7 +7,7 @@ category: Weekly Update
 
 This week, I ...
 
-### Some things I've done
+### This week I
 *
 *
 *
