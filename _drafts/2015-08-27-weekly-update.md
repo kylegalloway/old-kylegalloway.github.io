@@ -1,39 +1,26 @@
 ---
 layout: post
-title: Weekly Update #
+title: Weekly Update 5
 category: Weekly Update
 ---
-###(Date - Date)
+###(August 24, 2015 - August 31, 2015)
 
-This week, I ...
+This week, I worked hard to stay on top of school.
 
 ### Some things I've done
-*
-*
-*
+* Got into grad school! I'm now taking 4 grad level classes that count for both grad and undergrad degrees.
+* Got started on some research with my first meeting.
+* Worked through exercise ____ in [Learn C The Hard Way](http://c.learncodethehardway.org/book/).
+* Wrote several new (to me at least) [functions in Scheme](https://github.com/kylegalloway/CS503).
 
 ### Looking ahead
-*
-*
-*
+* Prepare for my first test in CS 575.
+* Try really, really hard to write a content (non-update) blog piece.
+* Keep pushing ahead in [Learn C The Hard Way](http://c.learncodethehardway.org/book/).
 
 ### Media
 * Books
-    *
-    *
-    *
-* Movies
-    *
-    *
-    *
-* TV Shows
-    *
-    *
-    *
-* Music
-    *
-    *
-    *
+    * Still need to start [Son of a Witch](https://www.goodreads.com/book/show/13521.Son_of_a_Witch).
 
 ### Current Podcasts:
 * Development
@@ -43,18 +30,15 @@ This week, I ...
     * Full Stack Radio - Adam Wathan
     * Hanselminutes - Scott Hanselman
     * Material - Relay FM
-    * Podcast.\__init__ - Tobias Macey, Chris Patti
     * Slack Variety Pack - Slack.com
     * Talk Python To Me - Michael Kennedy
-    * The Ruby Rogues - DevChat.tv
     * Theory and Craft - David Crawford, Chris Yang
     * The Pipeline - 5by5
-* Electronics
+* Electronics / Embedded Systems
     * The Spark Gap
 * Gaming
     * DLC - 5by5
     * Isometric - Relay FM
-    * Rocket - Relay FM
 * Guitar
     * Chasing Tone by Wampler Pedals
 * Other

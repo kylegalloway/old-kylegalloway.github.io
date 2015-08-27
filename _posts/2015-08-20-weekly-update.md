@@ -7,8 +7,8 @@ category: Weekly Update
 
 This week, I started a new semester of school.
 
-### This week I
-* Learned how to write some [small programs](https://github.com/kylegalloway/cs403) in [Scheme](http://www.schemers.org/).
+### Some things I've done
+* Learned how to write some [small programs](https://github.com/kylegalloway/cs503) in [Scheme](http://www.schemers.org/).
 * Open-Sourced my [personal goals](https://github.com/kylegalloway/personal-goals) per [this blog](http://una.im/personal-goals-guide/#💁).
 * Talked to the head of the graduate school about a program that would allow me to take classes that count for both my bachelor's and master's degrees.
 * Submitted an application for that program.
