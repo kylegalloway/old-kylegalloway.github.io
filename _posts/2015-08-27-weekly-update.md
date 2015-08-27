@@ -3,7 +3,7 @@ layout: post
 title: Weekly Update 5
 category: Weekly Update
 ---
-###(August 24, 2015 - August 31, 2015)
+###(August 23, 2015 - August 31, 2015)
 
 This week, I worked hard to stay on top of school.
 
