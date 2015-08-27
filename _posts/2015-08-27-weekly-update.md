@@ -10,13 +10,14 @@ This week, I worked hard to stay on top of school.
 ### Some things I've done
 * Got into grad school! I'm now taking 4 grad level classes that count for both grad and undergrad degrees.
 * Got started on some research with my first meeting.
-* Worked through exercise ____ in [Learn C The Hard Way](http://c.learncodethehardway.org/book/).
+* Worked through exercise 31 in [Learn C The Hard Way](http://c.learncodethehardway.org/book/).
 * Wrote several new (to me at least) [functions in Scheme](https://github.com/kylegalloway/CS503).
 
 ### Looking ahead
 * Prepare for my first test in CS 575.
 * Try really, really hard to write a content (non-update) blog piece.
 * Keep pushing ahead in [Learn C The Hard Way](http://c.learncodethehardway.org/book/).
+* Learn about all of the cool technologies related to my research.
 
 ### Media
 * Books
