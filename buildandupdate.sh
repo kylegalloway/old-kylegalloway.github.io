@@ -6,6 +6,7 @@ if [[ -z "$1" ]]; then
 fi
 
 printf "\nBuilding and pushing to GitHub.\n"
+
 {
     jekyll build && \
     cd _site && \
@@ -18,4 +19,4 @@ printf "\nBuilding and pushing to GitHub.\n"
     git push origin source
 } &> /dev/null
 
-printf "\nSuccessfully built and pushed to GitHub.\n"
+printf "Successfully built and pushed to GitHub."
