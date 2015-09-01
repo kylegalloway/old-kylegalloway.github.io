@@ -15,6 +15,6 @@ fi
     git add . && \
     git commit -am "$1" && \
     git push origin source
-} >&2
+} &> /dev/null
 
 echo "Successfully built and pushed to GitHub."
