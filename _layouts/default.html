@@ -42,7 +42,8 @@
           checkbox.checked = false;
         }
 
-        document.addEventListener('click', toggleSidebar(), false);
+        document.addEventListener('click', toggleSidebar(this), false);
+        document.addEventListener('touchstart', toggleSidebar(this), false);
       })(document);
     </script>
   </body>
