@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Iron Coder II
-categories: Python
+categories: ['Python']
 ---
 > Please see Jamal's original post [here](http://jamalhansen.com/iron-coder-2). I borrowed this from him.
 

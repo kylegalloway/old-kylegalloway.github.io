@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Object Oriented Programming
-categories: General
+categories: ['General']
 ---
 > Update Aug. 15, 2015: Here is a [Youtube video](https://www.youtube.com/watch?v=9u0DZ3fdU6Y) of the talk I gave on this topic.
 

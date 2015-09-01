@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Update 5
-categories: [Weekly-Update]
+categories: ['Weekly-Update']
 ---
 ###(August 23, 2015 - August 31, 2015)
 

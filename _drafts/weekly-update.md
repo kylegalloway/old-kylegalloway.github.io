@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Update #
-categories: [Weekly-Update]
+categories: ['Weekly-Update']
 ---
 ###(Date - Date)
 
