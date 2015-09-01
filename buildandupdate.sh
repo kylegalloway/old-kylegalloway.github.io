@@ -5,13 +5,16 @@ if [[ -z "$1" ]]; then
   exit
 fi
 
-jekyll build && \
-  cd _site && \
-  git add . && \
-  git commit -am "$1" && \
-  git push origin master && \
-  cd .. && \
-  git add . && \
-  git commit -am "$1" && \
-  git push origin source && \
-  echo "Successfully built and pushed to GitHub."
+{
+    jekyll build && \
+    cd _site && \
+    git add . && \
+    git commit -am "$1" && \
+    git push origin master && \
+    cd .. && \
+    git add . && \
+    git commit -am "$1" && \
+    git push origin source
+} >&2
+
+echo "Successfully built and pushed to GitHub."
