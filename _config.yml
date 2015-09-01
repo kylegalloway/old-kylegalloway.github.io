@@ -29,4 +29,4 @@ github:
   repo:                 https://github.com/kylegalloway/kylegalloway.github.io
 analytics_id:           UA-65431095-1
 excerpt_separator:      <!--end of excerpt-->
-include:                .nojekyll
+include:                [.nojekyll]

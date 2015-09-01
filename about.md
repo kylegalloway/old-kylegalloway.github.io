@@ -19,6 +19,6 @@ I created this blog using a combination of multiple sources.
 * [Related Posts Overwrite](https://github.com/jumanji27/related_posts-jekyll_plugin)
 
 
-## [Source Code for my blog](http://joshualande.com/jekyll-github-pages-poole/)
+## [Source Code for my blog](https://github.com/kylegalloway/kylegalloway.github.io/tree/source)
 
 Thanks for reading!
