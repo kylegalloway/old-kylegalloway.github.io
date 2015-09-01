@@ -1,29 +1,30 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+permalink:              pretty
+relative_permalinks:    true
 
 # Setup
-title:               Kyle Galloway
-tagline:             Computer Science Student at The University of Alabama
-description:         "This site is a work in progress. Don't hesitate to contact me if needed."
-url:                 'http://kylegalloway.me'
-baseurl:             'http://kylegalloway.me'
-paginate:            5
+title:                  Kyle Galloway
+tagline:                Computer Science Student at The University of Alabama
+description:            "This site is a work in progress. Don't hesitate to contact me if needed."
+url:                    'http://kylegalloway.me'
+baseurl:                'http://kylegalloway.me'
+paginate:               5
 
 # About/contact
 author:
-  name:              Kyle Galloway
-  url:               https://twitter.com/kylegallowayckg
-  email:             kyle.galloway.1993@gmail.com
+  name:                 Kyle Galloway
+  url:                  https://twitter.com/kylegallowayckg
+  email:                kyle.galloway.1993@gmail.com
 
 # Custom vars
-version:             1.0.0
+version:                1.0.0
 pages_list: {
-    About : '/about',
-    Archive : '/archive',
-    Feed : '/atom.xml'
+    About :             '/about',
+    Archive :           '/archive',
+    Feed :              '/atom.xml'
 }
 github:
- repo: https://github.com/kylegalloway/kylegalloway.github.io
+  repo:                 https://github.com/kylegalloway/kylegalloway.github.io
+analytics_id:           UA-65431095-1
