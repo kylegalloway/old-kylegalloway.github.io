@@ -5,6 +5,7 @@ if [[ -z "$1" ]]; then
   exit
 fi
 
+echo "Building and pushing to GitHub."
 {
     jekyll build && \
     cd _site && \
