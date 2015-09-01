@@ -129,6 +129,22 @@
         
       
     
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
 
     <!-- <a class="sidebar-nav-item" href="https://github.com/kylegalloway/kylegalloway.github.io/archive/v1.0.0.zip">Download</a> -->
     <a class="sidebar-nav-item" href="/atom.xml">RSS Feed</a>
@@ -159,6 +175,36 @@
 
       <div class="container content">
         <div class="posts">
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/git/2015/08/04/splitting-git-directories-magically/">
+        Splitting Git Directories, Magically
+      </a>
+    </h1>
+
+    <span class="post-date">
+      <time datetime="2015-08-04T00:00:00-05:00">04 Aug 2015</time>
+      
+        <a href="/categories/git">git</a>
+      
+    </span>
+
+    <h3 id="why-i-did-it">Why I did it</h3>
+<p>I realized, after talking with some friends, that keeping all of my work in a single git directory was becoming a problem.</p>
+
+<ul>
+  <li>I couldn’t share it because I had the directory private.</li>
+  <li>I couldn’t seem to keep things as separate as I would have liked.</li>
+  <li>I could foresee problems with scalability.</li>
+</ul>
+
+<p>So, I decided to split each and every subdirectory out into their own git repository. But for this to happen, I wanted to make sure that my git history was kept for each repository.</p>
+
+<p>This meant if folder1 hadn’t been used since last year and folder2 had been used some last year and some this year, both would show that correctly without also having the other’s information.</p>
+
+
+  </div>
   
   <div class="post">
     <h1 class="post-title">
