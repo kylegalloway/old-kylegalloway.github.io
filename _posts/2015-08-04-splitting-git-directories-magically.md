@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Splitting Git Directories, Magically
-category: Git
+categories: Git
 ---
 ### Why I did it
 I realized, after talking with some friends, that keeping all of my work in a single git directory was becoming a problem.

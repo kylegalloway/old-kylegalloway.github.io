@@ -4,22 +4,29 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time> | {{ page.category }}</span>
+  <span class="post-date">
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
+    {% for category in page.categories %}
+      <a href="/categories/{{ category }}">{{ category }}</a>
+    {% endfor %}
+  </span>
   {{ content }}
 </div>
 
+{% if site.related_posts.size > 0 %}
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
+    {% for post in site.related_posts limit:5 %}
       <li>
-        <h3>
+        <h4>
           <a href="{{ site.baseurl }}{{ post.url }}">
             {{ post.title }}
             <small>{{ post.date | date_to_string }}</small>
           </a>
-        </h3>
+        </h4>
       </li>
     {% endfor %}
   </ul>
 </div>
+{% endif %}

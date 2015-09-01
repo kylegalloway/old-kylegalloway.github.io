@@ -1,6 +1,6 @@
 ---
 layout: post
 title: School Smarts
-category: Productivity
+categories: General, Productivity
 ---
 

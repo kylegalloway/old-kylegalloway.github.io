@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Weekly Update 3
-category: Weekly Update
+categories: [Weekly-Update]
 ---
 ###(Aug. 9, 2015 - Aug. 15, 2015)
 
 This week, I was super busy. Or at least felt that I was.
 
 <!--end of excerpt-->
+
 ### Some things I've done
 * I've gotten my work project up and running! It took some help but I got it rolling!
 * I've finished [Iron Coder II](http://kylegalloway.me/python/2015/08/01/iron-coder-ii/). My final code is [here](https://github.com/kylegalloway/Euchre-Hands).

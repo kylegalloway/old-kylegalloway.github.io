@@ -40,3 +40,8 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+
+
+#### Removes _site directory ####
+# this will enable me to use github pages but do my own jekyll plugins
+_site

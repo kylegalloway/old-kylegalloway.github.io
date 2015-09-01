@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Weekly Update #
-category: Weekly Update
+categories: [Weekly-Update]
 ---
 ###(Date - Date)
 
 This week, I ...
 
 <!--end of excerpt-->
+
 ### Some things I've done
 *
 *

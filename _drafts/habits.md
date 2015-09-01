@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Habits
-category: General
+categories: General
 ---
 
 Habits are hard to make and even harder to break.

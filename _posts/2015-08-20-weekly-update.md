@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Weekly Update 4
-category: Weekly Update
+categories: [Weekly-Update]
 ---
 ###(August 16, 2015 - August 22, 2015)
 
 This week, I started a new semester of school.
 
 <!--end of excerpt-->
+
 ### Some things I've done
 * Learned how to write some [small programs](https://github.com/kylegalloway/cs503) in [Scheme](http://www.schemers.org/).
 * Open-Sourced my [personal goals](https://github.com/kylegalloway/personal-goals) per [this blog](http://una.im/personal-goals-guide/#💁).

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Weekly Update 2
-category: Weekly Update
+categories: [Weekly-Update]
 ---
 ###(Aug. 2, 2015 - Aug. 8, 2015)
 
 This week, I fought the no motivation bug
 
 <!--end of excerpt-->
+
 ### Some things I've done
 * I've almost got my work project up and running!
 * I've worked on perfecting my website (still working on it).
