@@ -17,9 +17,10 @@ Well, I'm here to be your 1,000,000 visitor. Because most of this advice is true
 - Why did I make a A+ in a class where I could've settled for a B?
     - Studied hard, sat in front of class, took good notes, actually studies those notes, was interested in the material.
 
-The last one is a key example.
-I was interested in the material.
-Why?
+> The last one is a key example.
+> I was interested in the material.
+> Why?
+
 I read over the syllabus and found more information (Google is your friend.) about parts of the class that looked cool.
 I struggle to sit and stay attentive when I don't find the information invigorating. And in school, you will almost always have a class (or several) that you don't get excited about because they are boring, hard, have a bad teacher, etc. This can usually be overcome by either self-discipline or finding some key part of the class that you are interested in. For me, number 2 works the best.
 
