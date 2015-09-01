@@ -1,11 +1,11 @@
 #!/bin/bash
 
 if [[ -z "$1" ]]; then
-  echo "Please enter a git commit message"
+  printf "Please enter a git commit message"
   exit
 fi
 
-echo "\nBuilding and pushing to GitHub.\n"
+printf "\nBuilding and pushing to GitHub.\n"
 {
     jekyll build && \
     cd _site && \
@@ -18,4 +18,4 @@ echo "\nBuilding and pushing to GitHub.\n"
     git push origin source
 } &> /dev/null
 
-echo "\nSuccessfully built and pushed to GitHub.\n"
+printf "\nSuccessfully built and pushed to GitHub.\n"
