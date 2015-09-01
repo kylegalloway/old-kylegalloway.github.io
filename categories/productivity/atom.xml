@@ -4,7 +4,7 @@
   <title><![CDATA[Category: productivity | Kyle Galloway]]></title>
   <link href="http://kylegalloway.me/categories/productivity/atom.xml" rel="self"/>
   <link href="http://kylegalloway.me/"/>
-  <updated>2015-09-01T16:07:51-05:00</updated>
+  <updated>2015-09-01T16:09:02-05:00</updated>
   <id>http://kylegalloway.me/</id>
   <author>
     <name><![CDATA[{"name"=>"Kyle Galloway", "url"=>"https://twitter.com/kylegallowayckg", "email"=>"kyle.galloway.1993@gmail.com"}]]></name>
@@ -21,6 +21,8 @@
     <content type="html"><![CDATA[<p>When you’re start out at college, many people give you advice (sometimes great; sometimes not so great). This advice often concerns things like use your free time wisely, sit in the front of class, take good notes, don’t stay up too late, etc.</p>
 
 <p>Well, I’m here to be your 1,000,000 visitor. Because most of this advice is true.</p>
+
+<!--end of excerpt-->
 
 <ul>
   <li>Why did I make a C+ in a class where I should have had at least a B+?
