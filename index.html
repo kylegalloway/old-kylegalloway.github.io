@@ -12,7 +12,7 @@ title: Home
       </a>
     </h1>
 
-    <time datetime="{{ page.date | date_to_xmlschema }}" class="page-date">{{ page.date | date_to_string }}</time> | <span class="category">{{ page.category }}</span>
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time> | <span class="category">{{ post.category }}</span>
 
     {{ post.content }}
   </div>
