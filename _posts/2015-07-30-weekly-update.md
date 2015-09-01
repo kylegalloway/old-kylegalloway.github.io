@@ -7,6 +7,7 @@ category: Weekly Update
 
 Phew! I've been writing a huge amount of python this week.
 
+<!--end of excerpt-->
 ### Some things I've done (Python)
 * Worked through the first 6 chapters of [The Goat Book](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
 * Worked on my [Simple Rating System](https://github.com/kylegalloway/Simple-Rating-System). (Hopefully I can turn it into a web app soon)

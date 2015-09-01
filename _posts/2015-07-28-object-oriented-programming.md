@@ -11,6 +11,7 @@ category: General
 
 > An object is a representation of something. Some people say it is a representation of concrete things or objects. I like to think that it can be that, and it can also be a representation of an idea. This way you could have objects that represent Cars, Phones, People, and more. But you can also have objects that represent A Graph or a System.
 
+<!--end of excerpt-->
 - - -
 
 ### 5 key things to remember about objects

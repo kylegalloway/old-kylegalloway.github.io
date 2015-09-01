@@ -7,6 +7,7 @@ category: Weekly Update
 
 This week, I fought the no motivation bug
 
+<!--end of excerpt-->
 ### Some things I've done
 * I've almost got my work project up and running!
 * I've worked on perfecting my website (still working on it).

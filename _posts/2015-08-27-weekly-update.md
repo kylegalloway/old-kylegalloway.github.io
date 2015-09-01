@@ -7,6 +7,7 @@ category: Weekly Update
 
 This week, I worked hard to stay on top of school.
 
+<!--end of excerpt-->
 ### Some things I've done
 * Got into grad school! I'm now taking 4 grad level classes that count for both grad and undergrad degrees.
 * Got started on some research with my first meeting.

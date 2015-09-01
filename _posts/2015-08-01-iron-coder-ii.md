@@ -13,6 +13,7 @@ Here is a [link to my git repo](https://github.com/kylegalloway/Euchre-Hands) an
 
 This should be a fun challenge, I'm looking forward to it.
 
+<!--end of excerpt-->
 ## The Challenge: Euchre Hands
 [The following is extracted from Ruby Quiz # 55](http://rubyquiz.com/quiz55.html)
 

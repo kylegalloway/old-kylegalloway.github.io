@@ -7,6 +7,7 @@ category: Weekly Update
 
 This week, I ...
 
+<!--end of excerpt-->
 ### Some things I've done
 *
 *
