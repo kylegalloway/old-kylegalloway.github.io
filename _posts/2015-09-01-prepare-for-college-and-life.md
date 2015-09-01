@@ -8,6 +8,8 @@ When you're start out at college, many people give you advice (sometimes great; 
 
 Well, I'm here to be your 1,000,000 visitor. Because most of this advice is true.
 
+<!--end of excerpt-->
+
 - Why did I make a C+ in a class where I should have had at least a B+?
     - Didn't study well enough, sat in back of class, lack of sleep (+ 9 am class).
 
