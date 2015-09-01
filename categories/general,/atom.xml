@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: productivity | Kyle Galloway]]></title>
-  <link href="http://kylegalloway.me/categories/productivity/atom.xml" rel="self"/>
+  <title><![CDATA[Category: general, | Kyle Galloway]]></title>
+  <link href="http://kylegalloway.me/categories/general,/atom.xml" rel="self"/>
   <link href="http://kylegalloway.me/"/>
   <updated>2015-09-01T16:09:57-05:00</updated>
   <id>http://kylegalloway.me/</id>
