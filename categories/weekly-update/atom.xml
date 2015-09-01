@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: weekly-update | Kyle Galloway]]></title>
+  <link href="http://kylegalloway.me/categories/weekly-update/atom.xml" rel="self"/>
+  <link href="http://kylegalloway.me/"/>
+  <updated>2015-09-01T13:55:00-05:00</updated>
+  <id>http://kylegalloway.me/</id>
+  <author>
+    <name><![CDATA[{"name"=>"Kyle Galloway", "url"=>"https://twitter.com/kylegallowayckg", "email"=>"kyle.galloway.1993@gmail.com"}]]></name>
+    
+  </author>
+  <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Weekly Update 5]]></title>
+    <link href="http://kylegalloway.me/weekly-update/2015/08/27/weekly-update/"/>
+    <updated>2015-08-27T00:00:00-05:00</updated>
+    <id>http://kylegalloway.me/weekly-update/2015/08/27/weekly-update</id>
+    <content type="html"><![CDATA[<h3 id="august-23-2015---august-31-2015">(August 23, 2015 - August 31, 2015)</h3>
+
+<p>This week, I worked hard to stay on top of school.</p>
+
+<!--end of excerpt-->
+
+<h3 id="some-things-ive-done">Some things I’ve done</h3>
+<ul>
+  <li>Got into grad school! I’m now taking 4 grad level classes that count for both grad and undergrad degrees.</li>
+  <li>Got started on some research with my first meeting.</li>
+  <li>Worked through exercise 31 in <a href="http://c.learncodethehardway.org/book/">Learn C The Hard Way</a>.</li>
+  <li>Wrote several new (to me at least) <a href="https://github.com/kylegalloway/CS503">functions in Scheme</a>.</li>
+</ul>
+
+<h3 id="looking-ahead">Looking ahead</h3>
+<ul>
+  <li>Prepare for my first test in CS 575.</li>
+  <li>Try really, really hard to write a content (non-update) blog piece.</li>
+  <li>Keep pushing ahead in <a href="http://c.learncodethehardway.org/book/">Learn C The Hard Way</a>.</li>
+  <li>Learn about all of the cool technologies related to my research.</li>
+</ul>
+
+<h3 id="media">Media</h3>
+<ul>
+  <li>Books
+    <ul>
+      <li>Still need to start <a href="https://www.goodreads.com/book/show/13521.Son_of_a_Witch">Son of a Witch</a>.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="current-podcasts">Current Podcasts:</h3>
+<ul>
+  <li>Development
+    <ul>
+      <li>CodeNewbie</li>
+      <li>Developer Soup</li>
+      <li>Developer Tea - Spec</li>
+      <li>Full Stack Radio - Adam Wathan</li>
+      <li>Hanselminutes - Scott Hanselman</li>
+      <li>Material - Relay FM</li>
+      <li>Slack Variety Pack - Slack.com</li>
+      <li>Talk Python To Me - Michael Kennedy</li>
+      <li>Theory and Craft - David Crawford, Chris Yang</li>
+      <li>The Pipeline - 5by5</li>
+    </ul>
+  </li>
+  <li>Electronics / Embedded Systems
+    <ul>
+      <li>The Spark Gap</li>
+    </ul>
+  </li>
+  <li>Gaming
+    <ul>
+      <li>DLC - 5by5</li>
+      <li>Isometric - Relay FM</li>
+    </ul>
+  </li>
+  <li>Guitar
+    <ul>
+      <li>Chasing Tone by Wampler Pedals</li>
+    </ul>
+  </li>
+  <li>Other
+    <ul>
+      <li>Cortex - Relay FM</li>
+      <li>Entreprogrammers Podcast - Derick Bailey, Charles Maxwood, John Sonmez, Josh Earl</li>
+      <li>French Podcast - Linguistica 360</li>
+      <li>Hello Internet - CGP Grey, Brady Haran</li>
+      <li>The Freelancers’ Show - DevChat.tv</li>
+      <li>Vector - Dow, English, Ritchie, Wiskus</li>
+      <li>Upgrade - Relay FM</li>
+    </ul>
+  </li>
+</ul>
+
+<p>That’s all for now. I’ll update this post if anything happens between today and Saturday.</p>
+
+<h3 id="always-obey-the-testing-goat">Always Obey the Testing Goat!</h3>
+
+<p>If you liked this post, you can
+<a href="https://twitter.com/intent/tweet?url=http://kylegalloway.me/categories/weekly-update/atom.xml&text=Category: weekly-update&via=kylegallowayckg"
+   target="_blank">
+  share it with your followers</a>
+or
+<a href="https://twitter.com/kylegallowayckg">
+  follow me on Twitter</a>!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Weekly Update 4]]></title>
+    <link href="http://kylegalloway.me/weekly-update/2015/08/20/weekly-update/"/>
+    <updated>2015-08-20T00:00:00-05:00</updated>
+    <id>http://kylegalloway.me/weekly-update/2015/08/20/weekly-update</id>
+    <content type="html"><![CDATA[<h3 id="august-16-2015---august-22-2015">(August 16, 2015 - August 22, 2015)</h3>
+
+<p>This week, I started a new semester of school.</p>
+
+<!--end of excerpt-->
+
+<h3 id="some-things-ive-done">Some things I’ve done</h3>
+<ul>
+  <li>Learned how to write some <a href="https://github.com/kylegalloway/cs503">small programs</a> in <a href="http://www.schemers.org/">Scheme</a>.</li>
+  <li>Open-Sourced my <a href="https://github.com/kylegalloway/personal-goals">personal goals</a> per <a href="http://una.im/personal-goals-guide/#💁">this blog</a>.</li>
+  <li>Talked to the head of the graduate school about a program that would allow me to take classes that count for both my bachelor’s and master’s degrees.</li>
+  <li>Submitted an application for that program.</li>
+  <li>Talked to one of my favorite professors about a possible upcoming research opportunity.</li>
+  <li>Looked into <a href="http://floating-point-gui.de/">Floating-Point Arithemetic</a>.</li>
+</ul>
+
+<h3 id="looking-ahead">Looking ahead</h3>
+<ul>
+  <li>Hopefully, I will know about both my application and the research opportunity next week.</li>
+  <li>I plan to write many more scheme programs to practice for an upcoming test.</li>
+  <li>High School football season is here!! I will go watch my brother-in-law play tonight and my brother tomorrow night.</li>
+</ul>
+
+<h3 id="media">Media</h3>
+<ul>
+  <li>Books
+    <ul>
+      <li>I finished <a href="https://www.goodreads.com/book/show/37442.Wicked">Wicked</a> now on to <a href="https://www.goodreads.com/book/show/13521.Son_of_a_Witch">Son of a Witch</a>.</li>
+    </ul>
+  </li>
+  <li>Movies
+    <ul>
+      <li>Really excited to watch <a href="http://www.imdb.com/title/tt3460252/">The Hateful Eight</a> and <a href="http://www.imdb.com/title/tt2488496/">Star Wars: Episode VII - The Force Awakens</a>.</li>
+    </ul>
+  </li>
+  <li>Music
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=zsqF3p8ORDE">Call Me The Breeze - Eric Clapton</a></li>
+      <li>And the original -&gt; <a href="https://www.youtube.com/watch?v=TlppIdtLw5A">Call Me The Breeze - J.J. Cale</a></li>
+      <li><a href="https://www.youtube.com/watch?v=6mhtJduoCZ0">Growing Up (Sloane’s Song) - Macklemore &amp; Ryan Lewis ft. Ed Sheeran</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="current-podcasts">Current Podcasts:</h3>
+<ul>
+  <li>Development
+    <ul>
+      <li>CodeNewbie</li>
+      <li>Developer Soup</li>
+      <li>Developer Tea - Spec</li>
+      <li>Full Stack Radio - Adam Wathan</li>
+      <li>Hanselminutes - Scott Hanselman</li>
+      <li>Material - Relay FM</li>
+      <li>Podcast.__init__ - Tobias Macey, Chris Patti</li>
+      <li>Talk Python To Me - Michael Kennedy</li>
+      <li>The Bike Shed - Thoughtbot</li>
+      <li>The Ruby Rogues - DevChat.tv</li>
+      <li>Theory and Craft - David Crawford, Chris Yang</li>
+      <li>The Pipeline - 5by5</li>
+    </ul>
+  </li>
+  <li>Electronics
+    <ul>
+      <li>The Spark Gap</li>
+    </ul>
+  </li>
+  <li>Gaming
+    <ul>
+      <li>DLC - 5by5</li>
+      <li>Isometric - Relay FM</li>
+      <li>Rocket - Relay FM</li>
+    </ul>
+  </li>
+  <li>Guitar
+    <ul>
+      <li>Chasing Tone by Wampler Pedals</li>
+    </ul>
+  </li>
+  <li>Other
+    <ul>
+      <li>Cortex - Relay FM</li>
+      <li>Entreprogrammers Podcast - Derick Bailey, Charles Maxwood, John Sonmez, Josh Earl</li>
+      <li>French Podcast - Linguistica 360</li>
+      <li>Hello Internet - CGP Grey, Brady Haran</li>
+      <li>Slack Variety Pack - Slack.com</li>
+      <li>The Freelancers’ Show - DevChat.tv</li>
+      <li>Vector - Dow, English, Ritchie, Wiskus</li>
+      <li>Upgrade - Relay FM</li>
+    </ul>
+  </li>
+</ul>
+
+<p>That’s all for now. I’ll update this post if anything happens between today and Saturday.</p>
+
+<h3 id="always-obey-the-testing-goat">Always Obey the Testing Goat!</h3>
+
+<p>If you liked this post, you can
+<a href="https://twitter.com/intent/tweet?url=http://kylegalloway.me/categories/weekly-update/atom.xml&text=Category: weekly-update&via=kylegallowayckg"
+   target="_blank">
+  share it with your followers</a>
+or
+<a href="https://twitter.com/kylegallowayckg">
+  follow me on Twitter</a>!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Weekly Update 3]]></title>
+    <link href="http://kylegalloway.me/weekly-update/2015/08/13/weekly-update/"/>
+    <updated>2015-08-13T00:00:00-05:00</updated>
+    <id>http://kylegalloway.me/weekly-update/2015/08/13/weekly-update</id>
+    <content type="html"><![CDATA[<h3 id="aug-9-2015---aug-15-2015">(Aug. 9, 2015 - Aug. 15, 2015)</h3>
+
+<p>This week, I was super busy. Or at least felt that I was.</p>
+
+<!--end of excerpt-->
+
+<h3 id="some-things-ive-done">Some things I’ve done</h3>
+<ul>
+  <li>I’ve gotten my work project up and running! It took some help but I got it rolling!</li>
+  <li>I’ve finished <a href="http://kylegalloway.me/python/2015/08/01/iron-coder-ii/">Iron Coder II</a>. My final code is <a href="https://github.com/kylegalloway/Euchre-Hands">here</a>.</li>
+  <li>I’ve been working really hard in <a href="http://c.learncodethehardway.org/book/">Learn C The Hard Way</a>. It’s more challenging than I thought, but very much worth it.</li>
+</ul>
+
+<h3 id="looking-ahead">Looking ahead</h3>
+<ul>
+  <li>I want to look into data visualization with Python. There is some really cool stuff that can be done with it. Like <a href="http://maxberggren.github.io/2015/08/04/basemap/">this</a>.</li>
+  <li>I also want to look into Machine Learning (again with Python). It seems to be where the future of computing lies.</li>
+</ul>
+
+<h3 id="media">Media</h3>
+<ul>
+  <li>Books
+    <ul>
+      <li><a href="http://www.amazon.com/Wicked-Life-Times-Witch-Years/dp/0061350966/">Wicked - Gregory Maguire (Currently reading)</a></li>
+      <li><a href="http://chimera.labs.oreilly.com/books/1234000000754/index.html">The Goat Book</a></li>
+    </ul>
+  </li>
+  <li>TV Shows
+    <ul>
+      <li><a href="http://abc.go.com/shows/battlebots">BattleBots</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="current-podcasts">Current Podcasts:</h3>
+<ul>
+  <li>Development
+    <ul>
+      <li>CodeNewbie</li>
+      <li>Developer Soup</li>
+      <li>Developer Tea - Spec</li>
+      <li>Full Stack Radio - Adam Wathan</li>
+      <li>Hanselminutes - Scott Hanselman</li>
+      <li>Material - Relay FM</li>
+      <li>Podcast.__init__ - Tobias Macey, Chris Patti</li>
+      <li>Slack Variety Pack - Slack.com</li>
+      <li>Talk Python To Me - Michael Kennedy</li>
+      <li>The Ruby Rogues - DevChat.tv</li>
+      <li>Theory and Craft - David Crawford, Chris Yang</li>
+      <li>The Pipeline - 5by5</li>
+    </ul>
+  </li>
+  <li>Electronics
+    <ul>
+      <li>The Spark Gap</li>
+    </ul>
+  </li>
+  <li>Gaming
+    <ul>
+      <li>DLC - 5by5</li>
+      <li>Isometric - Relay FM</li>
+      <li>Rocket - Relay FM</li>
+    </ul>
+  </li>
+  <li>Guitar
+    <ul>
+      <li>Chasing Tone by Wampler Pedals</li>
+    </ul>
+  </li>
+  <li>Other
+    <ul>
+      <li>Cortex - Relay FM</li>
+      <li>Entreprogrammers Podcast - Derick Bailey, Charles Maxwood, John Sonmez, Josh Earl</li>
+      <li>French Podcast - Linguistica 360</li>
+      <li>Hello Internet - CGP Grey, Brady Haran</li>
+      <li>The Freelancers’ Show - DevChat.tv</li>
+      <li>Vector - Dow, English, Ritchie, Wiskus</li>
+      <li>Upgrade - Relay FM</li>
+    </ul>
+  </li>
+</ul>
+
+<p>That’s all for now. I’ll update this post if anything happens between today and Saturday.</p>
+
+<h3 id="always-obey-the-testing-goat">Always Obey the Testing Goat!</h3>
+
+<p>If you liked this post, you can
+<a href="https://twitter.com/intent/tweet?url=http://kylegalloway.me/categories/weekly-update/atom.xml&text=Category: weekly-update&via=kylegallowayckg"
+   target="_blank">
+  share it with your followers</a>
+or
+<a href="https://twitter.com/kylegallowayckg">
+  follow me on Twitter</a>!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Weekly Update 2]]></title>
+    <link href="http://kylegalloway.me/weekly-update/2015/08/06/weekly-update/"/>
+    <updated>2015-08-06T00:00:00-05:00</updated>
+    <id>http://kylegalloway.me/weekly-update/2015/08/06/weekly-update</id>
+    <content type="html"><![CDATA[<h3 id="aug-2-2015---aug-8-2015">(Aug. 2, 2015 - Aug. 8, 2015)</h3>
+
+<p>This week, I fought the no motivation bug</p>
+
+<!--end of excerpt-->
+
+<h3 id="some-things-ive-done">Some things I’ve done</h3>
+<ul>
+  <li>I’ve almost got my work project up and running!</li>
+  <li>I’ve worked on perfecting my website (still working on it).</li>
+  <li>I’ve done some research into embedded programming (specifically with C and Python).</li>
+  <li>I’ve reviewed some basic C++. Turns out I knew more than I realized.</li>
+  <li>I’ve started Iron Coder II and am working on my Euchre Hands program.</li>
+  <li>I’ve finished refactoring my Simple Rating System program and am ready to finish writing all of my tests and turn it into a webapp.</li>
+  <li>I formatted my Raspberry Pi’s SD card and put a fresh copy of NOOBS with Raspbian being the only OS I added. I wanted to add more but forgot to hook up the ethernet cable (will change this in the future). The main reason I continued, was so I could try out installing RetroPie on top of Raspbian. I’ll add a post on the how-to and the results once I’m done.</li>
+</ul>
+
+<h3 id="media">Media</h3>
+<ul>
+  <li>Books
+    <ul>
+      <li><a href="http://www.amazon.com/Wicked-Life-Times-Witch-Years/dp/0061350966/">Wicked - Gregory Maguire (Currently reading)</a></li>
+      <li><a href="http://dsp-book.narod.ru/CPES.pdf">C Programming for Embedded Systems</a></li>
+      <li><a href="http://chimera.labs.oreilly.com/books/1234000000754/index.html">The Goat Book</a></li>
+    </ul>
+  </li>
+  <li>Movies
+    <ul>
+      <li><a href="http://www.imdb.com/title/tt2224026/">Home</a> - for the kids</li>
+    </ul>
+  </li>
+  <li>Music
+    <ul>
+      <li><a href="http://illegalart.net/girltalk/shop/index.html">Girl Talk</a> - great for focusing. <strong>(Explicit)</strong></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="current-podcasts">Current Podcasts:</h3>
+<ul>
+  <li>Always Listen
+    <ul>
+      <li>Chasing Tone by Wampler Pedals</li>
+      <li>CodeNewbie</li>
+      <li>Cortex - Relay FM</li>
+      <li>Developer Tea - Spec</li>
+      <li>DLC - 5by5</li>
+      <li>Entreprogrammers Podcast - Derick Bailey, Charles Maxwood, John Sonmez, Josh Earl</li>
+      <li>Hanselminutes - Scott Hanselman</li>
+      <li>Isometric - Relay FM</li>
+      <li>Podcast.__init__ - Tobias Macey, Chris Patti</li>
+      <li>Talk Python To Me - Michael Kennedy</li>
+      <li>Theory and Craft - David Crawford, Chris Yang</li>
+      <li>The Freelancers’ Show - DevChat.tv</li>
+      <li>The Pipeline - 5by5</li>
+      <li>The Spark Gap</li>
+    </ul>
+  </li>
+  <li>Still on a trial run
+    <ul>
+      <li>French Podcast - Linguistica 360</li>
+      <li>Full Stack Radio - Adam Wathan</li>
+      <li>Hello Internet - CGP Grey, Brady Haran</li>
+      <li>Rocket - Relay FM</li>
+      <li>The Ruby Rogues - DevChat.tv</li>
+      <li>Upgrade - Relay FM</li>
+    </ul>
+  </li>
+</ul>
+
+<p>That’s all for now. I’ll update this post if anything happens between today and Saturday.</p>
+
+<h3 id="always-obey-the-testing-goat">Always Obey the Testing Goat!</h3>
+
+<p>If you liked this post, you can
+<a href="https://twitter.com/intent/tweet?url=http://kylegalloway.me/categories/weekly-update/atom.xml&text=Category: weekly-update&via=kylegallowayckg"
+   target="_blank">
+  share it with your followers</a>
+or
+<a href="https://twitter.com/kylegallowayckg">
+  follow me on Twitter</a>!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Weekly Update 1]]></title>
+    <link href="http://kylegalloway.me/weekly-update/2015/07/30/weekly-update/"/>
+    <updated>2015-07-30T00:00:00-05:00</updated>
+    <id>http://kylegalloway.me/weekly-update/2015/07/30/weekly-update</id>
+    <content type="html"><![CDATA[<h3 id="july-26-2015---aug-1-2015">(July 26, 2015 - Aug. 1, 2015)</h3>
+
+<p>Phew! I’ve been writing a huge amount of python this week.</p>
+
+<!--end of excerpt-->
+
+<h3 id="some-things-ive-done-python">Some things I’ve done (Python)</h3>
+<ul>
+  <li>Worked through the first 6 chapters of <a href="http://chimera.labs.oreilly.com/books/1234000000754/index.html">The Goat Book</a></li>
+  <li>Worked on my <a href="https://github.com/kylegalloway/Simple-Rating-System">Simple Rating System</a>. (Hopefully I can turn it into a web app soon)</li>
+  <li>Looked through and thoroughly learned the ins and outs of the <a href="https://github.com/code-newbies/python-thursday-adventure">Python Thursday Adventure Game</a></li>
+  <li>Researched differences in Flask and Django. I like Flask but that’s because I’m partial to minimal setups and micro-frameworks.</li>
+  <li>Found tons of books and resources on OOP, TDD, Algorithms, Good Practices, and a variety of other things in Python.</li>
+</ul>
+
+<h3 id="other-highlights">Other Highlights</h3>
+<ul>
+  <li>After talking to kjaymiller about my private repositories, I decided to open up my Dev repository.</li>
+  <li>In opening that repository, I wanted to split out each subdirectory into it’s own repository with all of it’s own history.</li>
+  <li>This was easier said than done, but I found a great bit of information on <a href="http://stackoverflow.com/questions/359424/detach-subdirectory-into-separate-git-repository/17864475#17864475">this Stack Overflow question</a></li>
+  <li>I also found a <a href="http://stackoverflow.com/questions/3497123/run-git-pull-over-all-subdirectories">nifty little bash script (see comment by Zarat on the accepted answer from Mar. 11 at 11:06)</a> to enable me to put all of my git repositories in one directory and pull them all at the same time.</li>
+  <li>My routines are starting to become habits thanks to <a href="https://habitrpg.com">HabitRPG</a> soon to be <a href="https://habitica.com">Habitica</a></li>
+  <li>I’ve settled on <a href="https://overcast.fm">Overcast</a> as my podcast app and plan to buy the pro version soon.</li>
+  <li>Speaking of podcasts, here’s my current list:
+    <ul>
+      <li>Always Listen
+        <ul>
+          <li>Chasing Tone by Wampler Pedals</li>
+          <li>CodeNewbie</li>
+          <li>Cortex - Relay FM</li>
+          <li>Developer Tea - Spec</li>
+          <li>DLC - 5by5</li>
+          <li>Entreprogrammers Podcast - Derick Bailey, Charles Maxwood, John Sonmez, Josh Earl</li>
+          <li>Isometric - Relay FM</li>
+          <li>The Pipeline - 5by5</li>
+          <li>Theory and Craft - David Crawford, Chris Yang</li>
+        </ul>
+      </li>
+      <li>Still on a trial run
+        <ul>
+          <li>French Podcast - Linguistica 360</li>
+          <li>Full Stack Radio - Adam Wathan</li>
+          <li>Hanselminutes - Scott Hanselman</li>
+          <li>Hello Internet - CGP Grey, Brady Haran</li>
+          <li>Mystery Show - Gimlet</li>
+          <li>Podcast.__init__ - Tobias Macey, Chris Patti</li>
+          <li>Rocket - Relay FM</li>
+          <li>Talking Machines - Tote Bag Productions</li>
+          <li>The Freelancers’ Show - DevChat.tv</li>
+          <li>The Ruby Rogues - DevChat.tv</li>
+          <li>The Spark Gap</li>
+          <li>Upgrade - Relay FM</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>I’ve fixed my iPhones home-screen to be one row of 4 folders, 3 rows of apps and the home row (4 apps) after listening to Cortex.</li>
+  <li>I’ve started to really improve my French learning. The combination of Memrise, Duolingo, and trying to speak it as much as possible have helped.</li>
+</ul>
+
+<p>That’s all for now. I’ll update this post if anything happens between today and Saturday.</p>
+
+<h3 id="always-obey-the-testing-goat">Always Obey the Testing Goat!</h3>
+
+<p>If you liked this post, you can
+<a href="https://twitter.com/intent/tweet?url=http://kylegalloway.me/categories/weekly-update/atom.xml&text=Category: weekly-update&via=kylegallowayckg"
+   target="_blank">
+  share it with your followers</a>
+or
+<a href="https://twitter.com/kylegallowayckg">
+  follow me on Twitter</a>!</p>
+]]></content>
+  </entry>
+  
+</feed>

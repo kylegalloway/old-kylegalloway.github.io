@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: general | Kyle Galloway]]></title>
+  <link href="http://kylegalloway.me/categories/general/atom.xml" rel="self"/>
+  <link href="http://kylegalloway.me/"/>
+  <updated>2015-09-01T13:55:00-05:00</updated>
+  <id>http://kylegalloway.me/</id>
+  <author>
+    <name><![CDATA[{"name"=>"Kyle Galloway", "url"=>"https://twitter.com/kylegallowayckg", "email"=>"kyle.galloway.1993@gmail.com"}]]></name>
+    
+  </author>
+  <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Object Oriented Programming]]></title>
+    <link href="http://kylegalloway.me/general/2015/07/28/object-oriented-programming/"/>
+    <updated>2015-07-28T00:00:00-05:00</updated>
+    <id>http://kylegalloway.me/general/2015/07/28/object-oriented-programming</id>
+    <content type="html"><![CDATA[<blockquote>
+  <p>Update Aug. 15, 2015: Here is a <a href="https://www.youtube.com/watch?v=9u0DZ3fdU6Y">Youtube video</a> of the talk I gave on this topic.</p>
+</blockquote>
+
+<blockquote>
+  <p>The main idea of Object Oriented Programming is to promote code reuse and handle complexity.</p>
+</blockquote>
+
+<h3 id="what-is-an-object">What is an object?</h3>
+
+<blockquote>
+  <p>An object is a representation of something. Some people say it is a representation of concrete things or objects. I like to think that it can be that, and it can also be a representation of an idea. This way you could have objects that represent Cars, Phones, People, and more. But you can also have objects that represent A Graph or a System.</p>
+</blockquote>
+
+<!--end of excerpt-->
+<hr />
+
+<h3 id="key-things-to-remember-about-objects">5 key things to remember about objects</h3>
+
+<ol>
+  <li>Encapsulation</li>
+  <li>Inheritance</li>
+  <li>Polymorphism</li>
+  <li>Cohesion</li>
+  <li>Coupling</li>
+</ol>
+
+<h3 id="encapsulation">Encapsulation</h3>
+
+<blockquote>
+  <p>This is the ability to encapsulate or contain and hide some of the logic in an object. It allows this object to have private attributes/methods and public ones. In Python this is shown in the form of classes. they are Python’s <em>object</em>.  Python’s classes don’t have true encapsulation. But the general consensus is that an underscore in front of a variable or a method denotes it as private.</p>
+</blockquote>
+
+<hr />
+
+<h3 id="inheritence">Inheritence</h3>
+
+<blockquote>
+  <p>Inheritance is a little easier to explain. Inheritance happens when you want one object or class to have the properties of another.
+Say, for instance, that you have an Animal class. And this Animal class has the property: is_alive = True.
+Inheritance comes into play when you want to have a class for Dogs specifically. So your dog class can inherit from the Animal class. It will therefore inherit all of the properties and methods of the Animal class. So your Dog class will have access yo the is_alive method. This can go even further. You can have a property: number_of_legs = 4, and the method speak() { print “Woof!”}. and then you can create a class named Labrador and it would inherit both of those and the is_alive method from the Animal class.</p>
+</blockquote>
+
+<hr />
+
+<h3 id="polymorphism">Polymorphism</h3>
+
+<blockquote>
+  <p>Polymorphism means you can have multiple instances of the same class. So you can have 3 Labrador class objects.</p>
+</blockquote>
+
+<hr />
+
+<h3 id="cohesion">Cohesion</h3>
+
+<blockquote>
+  <p>Cohesion is how well your classes perform their job. Most of the time you will try to design classes to do one job. So you may have a BankAccount class. And it’s job is to be able to withdraw money, deposit money, &amp; see a balance. Good cohesion means it doesn’t have other things such as get_credit_score and customer_name in it. High cohesion is good!</p>
+</blockquote>
+
+<hr />
+
+<h3 id="coupling">Coupling</h3>
+
+<blockquote>
+  <p>Coupling is the opposite of cohesion in that you want low coupling. Coupling is when one class relies on another class too much. It can happen when you have say a BankAccount class and a PrintBankAccount class. The PrintBankAccount class relies way too much on the BankAccount class. To help you might change the BankAccount class’s display_balance method to return a string. Then pass that to a class that takes a string and prints it. That way you can safely reuse either class.</p>
+</blockquote>
+
+<p>If you liked this post, you can
+<a href="https://twitter.com/intent/tweet?url=http://kylegalloway.me/categories/general/atom.xml&text=Category: general&via=kylegallowayckg"
+   target="_blank">
+  share it with your followers</a>
+or
+<a href="https://twitter.com/kylegallowayckg">
+  follow me on Twitter</a>!</p>
+]]></content>
+  </entry>
+  
+</feed>

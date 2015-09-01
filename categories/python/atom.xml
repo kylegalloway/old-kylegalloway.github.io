@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: python | Kyle Galloway]]></title>
+  <link href="http://kylegalloway.me/categories/python/atom.xml" rel="self"/>
+  <link href="http://kylegalloway.me/"/>
+  <updated>2015-09-01T13:55:00-05:00</updated>
+  <id>http://kylegalloway.me/</id>
+  <author>
+    <name><![CDATA[{"name"=>"Kyle Galloway", "url"=>"https://twitter.com/kylegallowayckg", "email"=>"kyle.galloway.1993@gmail.com"}]]></name>
+    
+  </author>
+  <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Iron Coder II]]></title>
+    <link href="http://kylegalloway.me/python/2015/08/01/iron-coder-ii/"/>
+    <updated>2015-08-01T00:00:00-05:00</updated>
+    <id>http://kylegalloway.me/python/2015/08/01/iron-coder-ii</id>
+    <content type="html"><![CDATA[<blockquote>
+  <p>Please see Jamal’s original post <a href="http://jamalhansen.com/iron-coder-2">here</a>. I borrowed this from him.</p>
+</blockquote>
+
+<p>Today marks the day that is the beginning of Iron Coder II.  This is a code challenge where I will compete against myself and <a href="http://jamalhansen.com">Jamal Hansen</a> to complete a randomized Ruby Quiz in Python.</p>
+
+<p>We have two weeks to complete this; challenge ends 23:59 CT on 8/15/2015.</p>
+
+<p>Here is a <a href="https://github.com/kylegalloway/Euchre-Hands">link to my git repo</a> and <a href="https://github.com/jamalhansen/Iron-Coder-II">Jamal’s</a></p>
+
+<p>This should be a fun challenge, I’m looking forward to it.</p>
+
+<!--end of excerpt-->
+<p>## The Challenge: Euchre Hands
+<a href="http://rubyquiz.com/quiz55.html">The following is extracted from Ruby Quiz # 55</a></p>
+
+<p>Euchre Hands (#55)</p>
+
+<p>The card game of Euchre has an unusual ordering of cards in the hand. This week’s Ruby Quiz is to take a random Euchre hand and sort it.</p>
+
+<p>The first thing you need to know is that Euchre is played with a small deck of cards. Four suits are used Diamonds (d), Clubs (c), Spades (s), and Hearts (h), but each suit has only the cards Nine (9), Ten (T), Jack (J), Queen (Q), King (K), and Ace (A). The cards are generally ordered as I just listed them, Nine being the low card and Ace the high card. The exception is the “Bowers”.</p>
+
+<p>When a Euchre hand is started, the first task is to select a Trump suit. How that’s done is not important, just know that one suit is always different from the rest. Trump is the best suit, valued higher than the other three suits (which are basically equal). In the Trump suit, the card order changes.</p>
+
+<p>The first oddity of Trump is that the Jack of the selected suit becomes the Right Bower, the highest ranked Trump card. The second oddity is that the other Jack of the same color (Diamonds and Hearts are red while Clubs and Spades are black) becomes the Left Bower, the second highest Trump card. This card is considered to be of the Trump suit for the rest of the hand. For example, if Spades is selected as Trump, the order of Spades becomes (lowest to highest): 9s, Ts, Qs, Ks, As, Jc, and Js. All other suits run Nine to Ace, save that Clubs will be short a Jack.</p>
+
+<p>The three non-Trump suits are equal, but it is good interface to sort the by suit alternating red, black, red, and black, I think. Especially with a GUI, this makes it easier to understand the hand.</p>
+
+<p>Input (on STDIN) will be a line containing the Trump suit, followed by five lines containing a Euchre hand. For example:</p>
+
+<p><div class="highlight"><pre><code class="language-text" data-lang="text">&lt;/p&gt;
+
+&lt;p&gt;Diamonds
+Kc
+Jh
+Kd
+Td
+Ah&lt;/p&gt;
+
+&lt;p&gt;</code></pre></div></p>
+
+<p>Your script should output (to STDOUT) the Trump suit, followed by the cards in sorted order (highest card first):</p>
+
+<p><div class="highlight"><pre><code class="language-text" data-lang="text">Diamonds
+Jh
+Kd
+Td
+Kc
+Ah</code></pre></div></p>
+
+<p>Here is a script that will feed your program random hands:</p>
+
+<p><div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="c1">#!/usr/local/bin/ruby -w&lt;/p&gt;</span>
+
+<span class="o">&lt;</span><span class="n">pre</span><span class="o">&gt;&lt;</span><span class="n">code</span><span class="o">&gt;</span><span class="c1"># build a Euchre deck</span>
+<span class="n">cards</span> <span class="o">=</span> <span class="nb">Array</span><span class="o">.</span><span class="n">new</span>
+<span class="sx">%w{9 T J Q K A}</span><span class="o">.</span><span class="n">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">face</span><span class="o">|</span>
+  <span class="sx">%w{d c s h}</span><span class="o">.</span><span class="n">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">suit</span><span class="o">|</span>
+    <span class="n">cards</span> <span class="o">&amp;</span><span class="n">lt</span><span class="p">;</span><span class="o">&amp;</span><span class="n">lt</span><span class="p">;</span> <span class="n">face</span> <span class="o">+</span> <span class="n">suit</span>
+  <span class="k">end</span>
+<span class="k">end</span>
+
+<span class="c1"># choose trump</span>
+<span class="nb">puts</span> <span class="sx">%w{Diamonds Clubs Spades Hearts}</span><span class="o">[</span><span class="nb">rand</span><span class="p">(</span><span class="mi">4</span><span class="p">)</span><span class="o">]</span>
+
+<span class="c1"># deal a hand</span>
+<span class="n">cards</span> <span class="o">=</span> <span class="n">cards</span><span class="o">.</span><span class="n">sort_by</span> <span class="p">{</span> <span class="nb">rand</span> <span class="p">}</span>
+<span class="nb">puts</span> <span class="n">cards</span><span class="o">[</span><span class="mi">0</span><span class="o">.</span><span class="n">.</span><span class="mi">4</span><span class="o">]</span></code></pre></div>
+</code></pre>
+
+<p>If you liked this post, you can
+<a href="https://twitter.com/intent/tweet?url=http://kylegalloway.me/categories/python/atom.xml&text=Category: python&via=kylegallowayckg"
+   target="_blank">
+  share it with your followers</a>
+or
+<a href="https://twitter.com/kylegallowayckg">
+  follow me on Twitter</a>!</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: git | Kyle Galloway]]></title>
+  <link href="http://kylegalloway.me/categories/git/atom.xml" rel="self"/>
+  <link href="http://kylegalloway.me/"/>
+  <updated>2015-09-01T13:55:00-05:00</updated>
+  <id>http://kylegalloway.me/</id>
+  <author>
+    <name><![CDATA[{"name"=>"Kyle Galloway", "url"=>"https://twitter.com/kylegallowayckg", "email"=>"kyle.galloway.1993@gmail.com"}]]></name>
+    
+  </author>
+  <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Splitting Git Directories, Magically]]></title>
+    <link href="http://kylegalloway.me/git/2015/08/04/splitting-git-directories-magically/"/>
+    <updated>2015-08-04T00:00:00-05:00</updated>
+    <id>http://kylegalloway.me/git/2015/08/04/splitting-git-directories-magically</id>
+    <content type="html"><![CDATA[<h3 id="why-i-did-it">Why I did it</h3>
+<p>I realized, after talking with some friends, that keeping all of my work in a single git directory was becoming a problem.</p>
+
+<ul>
+  <li>I couldn’t share it because I had the directory private.</li>
+  <li>I couldn’t seem to keep things as separate as I would have liked.</li>
+  <li>I could foresee problems with scalability.</li>
+</ul>
+
+<p>So, I decided to split each and every subdirectory out into their own git repository. But for this to happen, I wanted to make sure that my git history was kept for each repository.</p>
+
+<p>This meant if folder1 hadn’t been used since last year and folder2 had been used some last year and some this year, both would show that correctly without also having the other’s information.</p>
+
+<!--end of excerpt-->
+<p>### How I did it
+So, after looking for a long time, I found <a href="http://stackoverflow.com/questions/359424/detach-subdirectory-into-separate-git-repository/17864475#17864475">this answer</a>. Using “The Easy Way” allowed me to have everything I wanted to happen.</p>
+
+<p>After separating them all out, I put them all under a folder named Repos. This allowed me to house them in a simple &amp; clean looking way but still maintain their individuality.</p>
+
+<h3 id="after-i-did-it">After I did it</h3>
+<p>I decided a few days later, that I wanted a way to update all of the individual git repos that were under this main “Repos” folder.</p>
+
+<p>Again, after searching a bit, I stumbled across a script to <a href="http://stackoverflow.com/questions/3497123/run-git-pull-over%20-all-subdirectories#comment46218583_12495234">pull all subdirectories</a>.
+It happened to be deep in the comments, but it works fantastically on both OSX and Linux.</p>
+
+<p>If you liked this post, you can
+<a href="https://twitter.com/intent/tweet?url=http://kylegalloway.me/categories/git/atom.xml&text=Category: git&via=kylegallowayckg"
+   target="_blank">
+  share it with your followers</a>
+or
+<a href="https://twitter.com/kylegallowayckg">
+  follow me on Twitter</a>!</p>
+]]></content>
+  </entry>
+  
+</feed>
