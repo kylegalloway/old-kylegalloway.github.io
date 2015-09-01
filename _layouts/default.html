@@ -32,7 +32,7 @@
         var sidebar = document.querySelector('#sidebar');
         var checkbox = document.querySelector('#sidebar-checkbox');
 
-        function toggleSidebar(e) {
+        document.addEventListener('click', function(e) {
           var target = e.target;
 
           if(!checkbox.checked ||
@@ -40,10 +40,17 @@
              (target === checkbox || target === toggle)) return;
 
           checkbox.checked = false;
-        }
+        }, false);
 
-        document.addEventListener('click', toggleSidebar(this), false);
-        document.addEventListener('touchstart', toggleSidebar(this), false);
+        document.addEventListener('touchstart', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
       })(document);
     </script>
   </body>
