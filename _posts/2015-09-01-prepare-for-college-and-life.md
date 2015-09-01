@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prepare for College, and Life
-categories: General, Productivity
+categories: General Productivity
 ---
 
 When you're start out at college, many people give you advice (sometimes great; sometimes not so great). This advice often concerns things like use your free time wisely, sit in the front of class, take good notes, don't stay up too late, etc.
