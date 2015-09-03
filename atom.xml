@@ -4,13 +4,112 @@
  <title>Kyle Galloway</title>
  <link href="http://kylegalloway.me/atom.xml" rel="self"/>
  <link href="http://kylegalloway.me/"/>
- <updated>2015-09-01T16:21:08-05:00</updated>
+ <updated>2015-09-03T12:53:29-05:00</updated>
  <id>http://kylegalloway.me/</id>
  <author>
    <name>Kyle Galloway</name>
    <email>kyle.galloway.1993@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Weekly Update 6</title>
+   <link href="http://kylegalloway.me/weekly-update/2015/09/03/weekly-update/"/>
+   <updated>2015-09-03T00:00:00-05:00</updated>
+   <id>http://kylegalloway.me/weekly-update/2015/09/03/weekly-update</id>
+   <content type="html">&lt;h3 id=&quot;august-31-2015---september-6-2015&quot;&gt;(August 31, 2015 - September 6, 2015)&lt;/h3&gt;
+
+&lt;p&gt;This week, I took my first test and started working on my research project.&lt;/p&gt;
+
+&lt;!--end of excerpt--&gt;
+
+&lt;h3 id=&quot;some-things-ive-done&quot;&gt;Some things I’ve done&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Write a second (content) blog post for the first time in almost a month.&lt;/li&gt;
+  &lt;li&gt;Prepared for and took my first test this semester. It wasn’t as bad as it could’ve been.&lt;/li&gt;
+  &lt;li&gt;Continued learning about topics that relate to my research with Dr. Anderson.&lt;/li&gt;
+  &lt;li&gt;Got declined for the scholarship I was looking into, but I’m still looking at other funding sources.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;looking-ahead&quot;&gt;Looking ahead&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Next week I have another test (different class).&lt;/li&gt;
+  &lt;li&gt;I need to start writing some for my projects in some classes.&lt;/li&gt;
+  &lt;li&gt;I’ll probably be really busy again.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;media&quot;&gt;Media&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Movies
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.imdb.com/title/tt0093779/&quot;&gt;The Princess Bride&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.imdb.com/title/tt0034583/?ref_=nv_sr_1&quot;&gt;Casablanca&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;With those two, you should have all the quotes you need.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;current-podcasts&quot;&gt;Current Podcasts:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Development
+    &lt;ul&gt;
+      &lt;li&gt;CodeNewbie&lt;/li&gt;
+      &lt;li&gt;Developer Soup&lt;/li&gt;
+      &lt;li&gt;Developer Tea - Spec&lt;/li&gt;
+      &lt;li&gt;Full Stack Radio - Adam Wathan&lt;/li&gt;
+      &lt;li&gt;Hanselminutes - Scott Hanselman&lt;/li&gt;
+      &lt;li&gt;Material - Relay FM&lt;/li&gt;
+      &lt;li&gt;Python Test Podcast - Brian Okken&lt;/li&gt;
+      &lt;li&gt;Slack Variety Pack - Slack.com&lt;/li&gt;
+      &lt;li&gt;Talk Python To Me - Michael Kennedy&lt;/li&gt;
+      &lt;li&gt;Theory and Craft - David Crawford, Chris Yang&lt;/li&gt;
+      &lt;li&gt;The Pipeline - 5by5&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Electronics
+    &lt;ul&gt;
+      &lt;li&gt;The Spark Gap&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Gaming
+    &lt;ul&gt;
+      &lt;li&gt;DLC - 5by5&lt;/li&gt;
+      &lt;li&gt;Isometric - Relay FM&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Guitar
+    &lt;ul&gt;
+      &lt;li&gt;Chasing Tone by Wampler Pedals&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Other
+    &lt;ul&gt;
+      &lt;li&gt;Cortex - Relay FM&lt;/li&gt;
+      &lt;li&gt;Entreprogrammers Podcast - Derick Bailey, Charles Maxwood, John Sonmez, Josh Earl&lt;/li&gt;
+      &lt;li&gt;The Freelancers’ Show - DevChat.tv&lt;/li&gt;
+      &lt;li&gt;French Podcast - Linguistica 360&lt;/li&gt;
+      &lt;li&gt;Hello Internet - CGP Grey, Brady Haran&lt;/li&gt;
+      &lt;li&gt;Vector - Dow, English, Ritchie, Wiskus&lt;/li&gt;
+      &lt;li&gt;Upgrade - Relay FM&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That’s all for now. I’ll update this post if anything happens between today and Saturday.&lt;/p&gt;
+
+&lt;h3 id=&quot;always-obey-the-testing-goat&quot;&gt;Always Obey the Testing Goat!&lt;/h3&gt;
+
+&lt;p&gt;If you liked this post, you can
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=http://kylegalloway.me/weekly-update/2015/09/03/weekly-update/&amp;amp;text=Weekly Update 6&amp;amp;via=kylegallowayckg&quot; target=&quot;_blank&quot;&gt;
+  share it with your followers&lt;/a&gt;
+or
+&lt;a href=&quot;https://twitter.com/kylegallowayckg&quot;&gt;
+  follow me on Twitter&lt;/a&gt;!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Prepare for College, and Life</title>
@@ -79,7 +178,7 @@
    <link href="http://kylegalloway.me/weekly-update/2015/08/27/weekly-update/"/>
    <updated>2015-08-27T00:00:00-05:00</updated>
    <id>http://kylegalloway.me/weekly-update/2015/08/27/weekly-update</id>
-   <content type="html">&lt;h3 id=&quot;august-23-2015---august-31-2015&quot;&gt;(August 23, 2015 - August 31, 2015)&lt;/h3&gt;
+   <content type="html">&lt;h3 id=&quot;august-23-2015---august-30-2015&quot;&gt;(August 23, 2015 - August 30, 2015)&lt;/h3&gt;
 
 &lt;p&gt;This week, I worked hard to stay on top of school.&lt;/p&gt;
 
