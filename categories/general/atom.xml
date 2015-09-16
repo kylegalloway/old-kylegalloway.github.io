@@ -4,7 +4,7 @@
   <title><![CDATA[Category: general | Kyle Galloway]]></title>
   <link href="http://kylegalloway.me/categories/general/atom.xml" rel="self"/>
   <link href="http://kylegalloway.me/"/>
-  <updated>2015-09-03T12:53:29-05:00</updated>
+  <updated>2015-09-15T22:34:13-05:00</updated>
   <id>http://kylegalloway.me/</id>
   <author>
     <name><![CDATA[{"name"=>"Kyle Galloway", "url"=>"https://twitter.com/kylegallowayckg", "email"=>"kyle.galloway.1993@gmail.com"}]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hiatus]]></title>
+    <link href="http://kylegalloway.me/general/2015/09/15/hiatus/"/>
+    <updated>2015-09-15T00:00:00-05:00</updated>
+    <id>http://kylegalloway.me/general/2015/09/15/hiatus</id>
+    <content type="html"><![CDATA[<p>Hey guys, I hope you’ll understand if I’m taking a hiatus from my blog writing.
+I’m in the middle of a very rough semester of school, I’m quiting my job to start researching, and I’m trying to spend time each day to get in shape. (At 5’6”-5’7”, weighing 225 lbs is unacceptable. I’m aiming for 165-170 lbs.)</p>
+
+<p>I’ll still try to remember to write something every once in awhile but I won’t have weekly updates and probably won’t be very regular in my posting.</p>
+
+<p>Wish me luck!</p>
+
+<p>If you liked this post, you can
+<a href="https://twitter.com/intent/tweet?url=http://kylegalloway.me/categories/general/atom.xml&text=Category: general&via=kylegallowayckg"
+   target="_blank">
+  share it with your followers</a>
+or
+<a href="https://twitter.com/kylegallowayckg">
+  follow me on Twitter</a>!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Prepare for College, and Life]]></title>
